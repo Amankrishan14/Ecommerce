@@ -3,7 +3,6 @@ function CartPage() {
     return(
      
      <Cart>
-
      </Cart>
 
     );
